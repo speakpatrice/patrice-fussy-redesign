@@ -1,0 +1,47 @@
+.search{
+    margin-top: 50px;
+  }
+   h2{
+      text-align: center;
+    }
+    form.custom .custom.dropdown{
+      height: 45px;
+    }
+    label{
+      margin-bottom: 10px;
+    }
+    form.custom .custom.dropdown{
+      padding-top: 5px;
+    }
+    form.custom .custom.dropdown .selector{
+      top: 5px;
+    }
+    .button{
+      height: 45px;
+      margin-top: 10px; 
+    }
+
+.button-stylist-panel {
+	margin-top: 0;
+	margin-bottom: 50;
+}
+
+#featured {
+	background: url('../img/images/home/14108910899002.jpeg') #000000;
+	height: 530px;
+	text-align: left;
+	position: relative;
+	z-index: 50;
+	overflow: hidden;
+	padding: 80px 20px 0 20px;
+	background-size: cover;
+	background-position: right;
+}
+
+.featured-button {
+	margin-bottom: 3px;
+}
+
+.featured-font {
+	color:white;
+}
